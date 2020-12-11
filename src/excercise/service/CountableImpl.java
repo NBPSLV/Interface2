@@ -14,8 +14,5 @@ public class CountableImpl implements Countable {
         return result;
     }
 
-
-
-
     }
 
